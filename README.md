@@ -21,6 +21,12 @@ Understand how reinforcement learning agents develop decision-making policies th
 - Evaluation and rendering system implemented
 - Reward plotting functionality added
 
+### Results:   
+| Learning Rate (lr) | Time Steps | Average Reward (over 5 episodes) |
+|---|---|---|
+| 0.0003 | 100000 | **500** of 500 |
+| 0.01 | 5000 | **122.2** of 500 |
+
 ### Next Steps:
 - Compare PPO against additional RL algorithms
 - Analyze hyperparameter sensitivity
