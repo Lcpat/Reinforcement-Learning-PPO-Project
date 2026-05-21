@@ -1,4 +1,4 @@
-# Reinforcement-Learning-CartPole
+# Reinforcement Learning PPO Project
 
 > NOTE: WIP; THIS REPOSITORY IS CURRENTLY IN DEVELOPMENT
 
